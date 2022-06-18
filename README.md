@@ -1,5 +1,26 @@
 # chat-os
 
+### test-steps
+```
+yarn
+yarn dev
+
+focus window and press command+N => create new window
+click window close icon at top-right
+
+will recieve
+    win-closes:  1
+    win-closes:  1
+    win-closes:  2
+    win-closes:  2
+
+i need only 1 times console
+ like   win-closes:  1 or 
+        win-closes:  2
+
+```
+
+
 ### 运行环境
 
 ```
