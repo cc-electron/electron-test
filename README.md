@@ -8,6 +8,7 @@ yarn dev
 focus window and press command+N => create new window
 click window close icon at top-right
 
+at terminal
 will recieve
     win-closes:  1
     win-closes:  1
