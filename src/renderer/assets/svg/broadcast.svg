@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="57" height="57" viewBox="0 0 57 57">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f8db00"/>
+      <stop offset="1" stop-color="#ff6c00"/>
+    </linearGradient>
+  </defs>
+  <g id="O" transform="translate(-34 -29)">
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="57" height="57" rx="28.5" transform="translate(34 29)" fill="url(#linear-gradient)"/>
+    <g id="ico" transform="translate(46.472 42.621)">
+      <path id="Path_21488" data-name="Path 21488" d="M10.693,5.074,13.938.208Z" transform="translate(14.543 0)" fill="#fff"/>
+      <path id="Path_21489" data-name="Path 21489" d="M9.2,16.473,3.5,9.157Z" transform="translate(4.756 12.171)" fill="#fff"/>
+      <path id="Path_21490" data-name="Path 21490" d="M16.7,8.683,11.972,6.455Z" transform="translate(16.282 8.496)" fill="#fff"/>
+      <path id="Path_21491" data-name="Path 21491" d="M11.38,5.067l4.706-1.418Z" transform="translate(15.477 4.68)" fill="#fff"/>
+      <path id="Path_21492" data-name="Path 21492" d="M13.964,1.758,3.554,8.364l2.341,8.921,12.4.352Z" transform="translate(4.833 2.108)" fill="#fff"/>
+      <path id="Path_21493" data-name="Path 21493" d="M8.479,13.579,3.573,14.861l-2.506-8.9L5.973,4.675Z" transform="translate(1.45 6.075)" fill="#fff"/>
+      <path id="Path_21494" data-name="Path 21494" d="M4.066,14.279l-.1.028a1.943,1.943,0,0,1-2.4-1.343L.066,7.622a1.741,1.741,0,0,1,1.2-2.15l.293-.083Z" transform="translate(0 7.046)" fill="#fff"/>
+      <line id="Line_928" data-name="Line 928" x2="5.702" y2="7.318" transform="translate(8.253 21.327)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+      <line id="Line_926" data-name="Line 926" x2="4.465" y2="17.011" transform="translate(21.29 2.679)" fill="#fff" stroke="#fff" stroke-linecap="round" stroke-width="2.5"/>
+      <line id="Line_925" data-name="Line 925" x1="3.245" y2="4.869" transform="translate(25.234 0.208)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_929" data-name="Line 929" x1="4.722" y1="2.228" transform="translate(28.256 14.951)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_930" data-name="Line 930" x1="4.706" y2="1.418" transform="translate(26.857 8.328)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

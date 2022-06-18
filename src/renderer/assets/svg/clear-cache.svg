@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="brush" transform="translate(-568.483 -682.209)">
+    <rect id="Rectangle_1650" data-name="Rectangle 1650" width="24" height="24" rx="5" transform="translate(568.483 682.209)" fill="#fd6e22"/>
+    <g id="ico" transform="translate(2.5 2)">
+      <path id="Path_21726" data-name="Path 21726" d="M576.912,689.761a9.64,9.64,0,0,1-5.429,4.363l7.448,4.942a10.508,10.508,0,0,0,3.039-6.636Z" transform="translate(0 -0.428)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="0.75"/>
+      <line id="Line_903" data-name="Line 903" x2="5.321" y2="3.181" transform="translate(575.9 691.17)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.75"/>
+      <line id="Line_904" data-name="Line 904" x1="1.381" y2="1.128" transform="translate(574.155 694.15)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.75"/>
+      <line id="Line_905" data-name="Line 905" x1="1.6" y2="1.657" transform="translate(576.726 695.307)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.75"/>
+      <line id="Line_906" data-name="Line 906" x1="2.509" y2="4.782" transform="translate(578.836 685.209)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.75"/>
+      <line id="Line_907" data-name="Line 907" x1="2.509" y2="4.782" transform="translate(580.281 685.967)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.75"/>
+    </g>
+  </g>
+</svg>

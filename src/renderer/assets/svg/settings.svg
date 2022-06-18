@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="settings" transform="translate(3.496 3)">
+    <rect id="Rectangle_1648" data-name="Rectangle 1648" width="24" height="24" rx="5" transform="translate(-3.496 -3)" fill="#613df7"/>
+    <g id="ico">
+      <ellipse id="Ellipse_203" data-name="Ellipse 203" cx="2.718" cy="2.718" rx="2.718" ry="2.718" transform="translate(5.441 6.185)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_21734" data-name="Path 21734" d="M626.146,695.47l1.726,1.217-1.382,2.382-1.893-.895a5.361,5.361,0,0,1-2.123,1.259l-.176,2.049h-2.767l-.178-2a5.41,5.41,0,0,1-2.235-1.259l-1.779.843-1.395-2.382,1.6-1.123a5.1,5.1,0,0,1,0-2.663l-1.6-1.123,1.395-2.382,1.779.842a5.409,5.409,0,0,1,2.235-1.259l.178-2H622.3l.176,2.049a5.361,5.361,0,0,1,2.123,1.258l1.893-.894,1.382,2.382-1.726,1.217a5.331,5.331,0,0,1,0,2.476Z" transform="translate(-612.62 -685.189)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

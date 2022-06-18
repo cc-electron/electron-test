@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.259" height="17.183" viewBox="0 0 20.259 17.183">
+  <g id="groups" transform="translate(0.5 0.5)">
+    <g id="bck" transform="translate(10.407 5.302)">
+      <path id="Path_21437" data-name="Path 21437" d="M260.724,400.424a4.631,4.631,0,0,1,.084,8.165v2.382l-1.414-.755-1.23-.656a7.341,7.341,0,0,1-1.071.077,7.074,7.074,0,0,1-2.734-.539" transform="translate(-254.359 -400.424)" fill="none" stroke="#4c4f50" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+    <g id="front">
+      <path id="Path_21436" data-name="Path 21436" d="M220.407,381.784c0,3.352-3.256,6.069-7.273,6.069a8.8,8.8,0,0,1-1.274-.092l-1.46.78-1.68.9v-2.83a5.784,5.784,0,0,1-2.858-4.823c0-3.352,3.256-6.069,7.273-6.069S220.407,378.432,220.407,381.784Z" transform="translate(-205.861 -375.715)" fill="none" stroke="#4c4f50" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_348" data-name="Line 348" x2="6.397" transform="translate(4.162 4.889)" fill="none" stroke="#4c4f50" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_349" data-name="Line 349" x2="4.621" transform="translate(5.05 7.619)" fill="none" stroke="#4c4f50" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

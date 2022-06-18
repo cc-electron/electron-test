@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="desktopIcon" transform="translate(-163 -244)">
+    <circle id="Ellipse_219" data-name="Ellipse 219" cx="40" cy="40" r="40" transform="translate(163 244)" fill="#f0f3f4"/>
+    <g id="Rectangle_1608" data-name="Rectangle 1608" transform="translate(193 266)" fill="none" stroke="#999da0" stroke-width="1">
+      <rect width="20" height="36" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="35" rx="3.5" fill="none"/>
+    </g>
+    <line id="Line_909" data-name="Line 909" x2="7.073" transform="translate(199.464 267.104)" fill="none" stroke="#999da0" stroke-linecap="round" stroke-width="2"/>
+    <path id="icons8-android_os" d="M7.255,1.516a.287.287,0,0,0-.227.452l.848,1.225A4.011,4.011,0,0,0,6.339,5.806h7.934a4.011,4.011,0,0,0-1.536-2.613l.848-1.225a.287.287,0,1,0-.471-.326l-.854,1.236a3.982,3.982,0,0,0-3.906,0L7.5,1.642A.287.287,0,0,0,7.255,1.516Zm1.331,2a.573.573,0,1,1-.573.573A.573.573,0,0,1,8.586,3.513Zm3.44,0a.573.573,0,1,1-.573.573A.573.573,0,0,1,12.026,3.513ZM4.573,6.953A.573.573,0,0,0,4,7.526v4.586a.573.573,0,1,0,1.147,0V7.526A.573.573,0,0,0,4.573,6.953Zm1.72,0v5.733A1.146,1.146,0,0,0,7.44,13.832v2.007a.86.86,0,0,0,1.72,0V13.832h2.293v2.007a.86.86,0,1,0,1.72,0V13.832a1.146,1.146,0,0,0,1.147-1.147V6.953Zm9.746,0a.573.573,0,0,0-.573.573v4.586a.573.573,0,1,0,1.147,0V7.526A.573.573,0,0,0,16.039,6.953Z" transform="translate(192.694 274.893)" fill="#999da0"/>
+  </g>
+</svg>

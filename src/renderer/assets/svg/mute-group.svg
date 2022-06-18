@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.392" height="18.25" viewBox="0 0 17.392 18.25">
+  <g id="ico" transform="translate(0.354 0.75)">
+    <path id="Path_21781" data-name="Path 21781" d="M9.484,14.367a1.622,1.622,0,1,1-3.244,0" transform="translate(0.414 1.01)" fill="none" stroke="#1492ff" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_21782" data-name="Path 21782" d="M1.092,12.863a2.664,2.664,0,0,1-.15-.781,2.869,2.869,0,0,0,2.43-2.836V6.569a4.858,4.858,0,0,1,7.845-3.832" transform="translate(0.041 0.12)" fill="none" stroke="#1492ff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_21783" data-name="Path 21783" d="M12.458,4.18A4.8,4.8,0,0,1,12.993,6.4V9.071a2.849,2.849,0,0,0,2.43,2.836,2.873,2.873,0,0,1-.835,1.916,2.82,2.82,0,0,1-2.023.846H3.713a2.752,2.752,0,0,1-1.391-.364" transform="translate(0.138 0.294)" fill="none" stroke="#1492ff" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_1014" data-name="Line 1014" y2="1.409" transform="translate(8.278)" fill="none" stroke="#1492ff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line id="Line_1015" data-name="Line 1015" x1="15.978" y2="15.978" transform="translate(0.354 0.736)" fill="none" stroke="#1492ff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>

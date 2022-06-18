@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="desktopIcon" transform="translate(-163 -244)">
+    <circle id="Ellipse_219" data-name="Ellipse 219" cx="40" cy="40" r="40" transform="translate(163 244)" fill="#f0f3f4"/>
+    <g id="Rectangle_1608" data-name="Rectangle 1608" transform="translate(192 264)" fill="none" stroke="#999da0" stroke-width="1">
+      <rect width="22" height="40" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="21" height="39" rx="3.5" fill="none"/>
+    </g>
+    <line id="Line_909" data-name="Line 909" x2="7.734" transform="translate(199.304 265.289)" fill="none" stroke="#999da0" stroke-linecap="round" stroke-width="2.5"/>
+    <path id="icons8-apple_logo" d="M15.312,9.8a8.616,8.616,0,0,1-.779,1.455c-.506.77-1.221,1.732-2.1,1.738-.786.007-.988-.513-2.055-.5S9.086,13.008,8.3,13c-.883-.008-1.559-.874-2.066-1.644C4.818,9.2,4.668,6.67,5.543,5.325A3.134,3.134,0,0,1,8.062,3.81c.937,0,1.526.515,2.3.515.752,0,1.21-.516,2.294-.516a3.062,3.062,0,0,1,2.305,1.217A2.639,2.639,0,0,0,15.312,9.8ZM11.834,2.948A2.629,2.629,0,0,0,12.419,1a2.844,2.844,0,0,0-1.834.986,2.445,2.445,0,0,0-.6,1.9A2.392,2.392,0,0,0,11.834,2.948Z" transform="translate(193.005 276.752)" fill="#999da0"/>
+  </g>
+</svg>

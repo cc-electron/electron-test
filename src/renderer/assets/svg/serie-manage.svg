@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+  <g id="O" transform="translate(-43 -38)">
+    <circle id="Ellipse_208" data-name="Ellipse 208" cx="19" cy="19" r="19" transform="translate(43 38)" fill="#613df7"/>
+    <g id="ico" transform="translate(5.719 2.806)">
+      <g id="ico-2" data-name="ico" transform="translate(21.746 25.166)">
+        <rect id="Rectangle_1612" data-name="Rectangle 1612" width="3.5" height="3.5" rx="1" transform="translate(26.535 22.028)" fill="#fff"/>
+        <rect id="Rectangle_1656" data-name="Rectangle 1656" width="3.5" height="3.5" rx="1" transform="translate(26.535 27.495)" fill="#fff"/>
+        <rect id="Rectangle_1657" data-name="Rectangle 1657" width="3.5" height="3.5" rx="1" transform="translate(26.535 32.961)" fill="#fff"/>
+        <line id="Line_948" data-name="Line 948" x2="9.087" transform="translate(32.448 23.778)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.5"/>
+        <line id="Line_965" data-name="Line 965" x2="9.087" transform="translate(32.448 29.244)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.5"/>
+        <line id="Line_966" data-name="Line 966" x2="9.087" transform="translate(32.448 34.711)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

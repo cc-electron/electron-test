@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Icon_ionic-ios-pause" data-name="Icon ionic-ios-pause" transform="translate(-3.5 1.75)">
+    <circle id="Ellipse_180" data-name="Ellipse 180" cx="14.5" cy="14.5" r="14.5" transform="translate(4 -1.25)" fill="none" stroke="#fff" stroke-width="1"/>
+    <path id="Icon_awesome-play" data-name="Icon awesome-play" d="M7.192,3.64,1.227.114A.809.809,0,0,0,0,.813V7.864a.813.813,0,0,0,1.227.7L7.192,5.04a.813.813,0,0,0,0-1.4Z" transform="translate(15.673 8.909)" fill="#fff"/>
+  </g>
+</svg>

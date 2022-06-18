@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.062" height="14.693" viewBox="0 0 17.062 14.693">
+  <g id="devices" transform="translate(0.059 0.059)">
+    <g id="Group_2761" data-name="Group 2761" transform="translate(0 0)">
+      <path id="Path_21768" data-name="Path 21768" d="M8.334,11.6H1.047A.55.55,0,0,1,.5,11.048v-10A.55.55,0,0,1,1.047.5H15.356a.55.55,0,0,1,.547.547V3.289" transform="translate(-0.059 -0.058)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_1003" data-name="Line 1003" x2="7.774" transform="translate(0.44 9.487)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.75"/>
+      <line id="Line_1004" data-name="Line 1004" x1="0.95" y2="2.588" transform="translate(5.857 11.536)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_1005" data-name="Line 1005" x2="4.26" transform="translate(3.955 14.124)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Rectangle_1665" data-name="Rectangle 1665" width="6.436" height="9.22" rx="1.257" transform="translate(10.057 4.904)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1.021"/>
+      <line id="Line_1006" data-name="Line 1006" x2="6.177" transform="translate(10.175 6.822)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.75"/>
+      <line id="Line_1007" data-name="Line 1007" x2="6.177" transform="translate(10.175 12.27)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.75"/>
+    </g>
+  </g>
+</svg>

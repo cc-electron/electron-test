@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.432" height="16.758" viewBox="0 0 20.432 16.758">
+  <g id="friends_list" data-name="friends list" transform="translate(0.5 0.5)">
+    <path id="Path_21439" data-name="Path 21439" d="M362.532,390.41h-3.386a.958.958,0,0,1-.958-.958V375.61a.958.958,0,0,1,.958-.958h3.441" transform="translate(-358.187 -374.652)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_21440" data-name="Path 21440" d="M392.865,375.61v13.842a.958.958,0,0,1-.958.958H378.237V374.652h13.669A.958.958,0,0,1,392.865,375.61Z" transform="translate(-373.432 -374.652)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_21441" data-name="Path 21441" d="M395.668,389.4a1.81,1.81,0,1,0,1.81,1.81A1.81,1.81,0,0,0,395.668,389.4Zm0,4.977c-1.359,0-4.072.682-4.072,2.036v.679a.453.453,0,0,0,.452.453h7.239a.453.453,0,0,0,.452-.453v-.679C399.74,395.055,397.027,394.373,395.668,394.373Z" transform="translate(-383.591 -385.863)"/>
+  </g>
+</svg>

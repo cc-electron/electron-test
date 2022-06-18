@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="friend_ID" data-name="friend ID" transform="translate(-44.189 -775.033)">
+    <rect id="Rectangle_1583" data-name="Rectangle 1583" width="24" height="24" rx="5" transform="translate(44.189 775.033)" fill="#007fff"/>
+    <g id="ico" transform="translate(-0.675 -0.898)">
+      <circle id="Ellipse_200" data-name="Ellipse 200" cx="2.341" cy="2.341" r="2.341" transform="translate(51.238 783.138)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_21720" data-name="Path 21720" d="M57.611,792.049c0-1.55-1.805-2.807-4.031-2.807s-4.031,1.257-4.031,2.807" transform="translate(0 0.149)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_820" data-name="Line 820" x2="4.856" transform="translate(59.693 784.888)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_821" data-name="Line 821" x2="4.856" transform="translate(59.693 788.012)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_822" data-name="Line 822" x2="4.856" transform="translate(59.693 791.133)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

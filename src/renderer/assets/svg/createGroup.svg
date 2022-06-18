@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+  <g id="O" transform="translate(-43 -38)">
+    <circle id="Ellipse_208" data-name="Ellipse 208" cx="19" cy="19" r="19" transform="translate(43 38)" fill="#1492ff"/>
+    <g id="ico" transform="translate(4.719 2.806)">
+      <path id="Subtraction_2" data-name="Subtraction 2" d="M8.433,4.8H5.3C4.8,2.6,2.7.8-.045.206A8.826,8.826,0,0,1,1.865,0C5.486,0,8.432,2.154,8.433,4.8Z" transform="translate(60.04 53.389)" fill="#fff"/>
+      <path id="Subtraction_3" data-name="Subtraction 3" d="M2.585,7.246c-.117,0-.236-.006-.353-.017A4.132,4.132,0,0,0,3.585,4.175,4.109,4.109,0,0,0,1.016.355,3.59,3.59,0,0,1,2.585,0a3.623,3.623,0,0,1,0,7.247Z" transform="translate(59.321 44.368)" fill="#fff"/>
+      <path id="Subtraction_1" data-name="Subtraction 1" d="M-2935.388-4540.655h-10.855c.016-.162.025-.329.025-.5a5.011,5.011,0,0,0-1.141-3.18,8.5,8.5,0,0,1,4.929-1.472c3.883,0,7.042,2.311,7.043,5.15Z" transform="translate(2998.866 4600.849)" fill="#fff"/>
+      <circle id="Ellipse_139" data-name="Ellipse 139" cx="3.886" cy="3.886" r="3.886" transform="translate(52.549 45.368)" fill="#fff"/>
+      <line id="Line_921" data-name="Line 921" y2="6.345" transform="translate(47.453 56.06)" fill="none" stroke="#fff" stroke-width="1.5"/>
+      <line id="Line_922" data-name="Line 922" y2="6.345" transform="translate(50.626 59.232) rotate(90)" fill="none" stroke="#fff" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

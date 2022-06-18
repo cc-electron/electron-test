@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.752" height="23.476" viewBox="0 0 16.752 23.476">
+  <g id="microphone" transform="translate(0.75 -0.774)">
+    <rect id="Rectangle_792" data-name="Rectangle 792" width="8" height="14.453" rx="4" transform="translate(3.481 0.774)"/>
+    <path id="Path_869" data-name="Path 869" d="M15.252,10.5A7.626,7.626,0,1,1,0,10.5" transform="translate(0 0.914)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"/>
+    <line id="Line_344" data-name="Line 344" y2="4" transform="translate(7.546 19.5)" fill="none" stroke="#000" stroke-width="1.5"/>
+    <line id="Line_345" data-name="Line 345" x2="10" transform="translate(2.546 23.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"/>
+  </g>
+</svg>
